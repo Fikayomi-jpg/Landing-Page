@@ -1,34 +1,45 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 1f716ff2bc8e62620d4f5802bafa055096ca73ef
-# React + Vite
+🚀 Landing Page Project
+📌 Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive Landing Page project built using React, HTML, and CSS.
+It was created to practice component structure, styling, and UI layout design in React.
 
-Currently, two official plugins are available:
+🎯 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Clean modern UI design
+📱 Fully responsive layout (mobile & desktop)
+⚡ Fast performance with React components
+🎨 Custom styling using CSS
+🧩 Reusable components structure
 
-## React Compiler
+🛠️ Tech Stack
+⚛️ React (Vite / Create React App)
+🧱 HTML5
+🎨 CSS3
+📦 JavaScript (ES6+)
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+----
 
-Note: This will impact Vite dev & build performances.
+🚀 Getting Started
+1️⃣ Clone the repository
+git clone https://github.com/your-username/landing-page.git
+2️⃣ Install dependencies
+npm install
+3️⃣ Run the project
+npm run dev
+🌐 Deployment
 
-## Expanding the ESLint configuration
+You can deploy this project using:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-<<<<<<< HEAD
-=======
-=======
-# To-Do-List
-A To-Do List made using React that allows users add tasks, edit tasks and delete tasks from the list
->>>>>>> 4d5f460b85ca8bf8d098d0c47db4c1eef0a4829b
-=======
-# Landing-Page
-A landing page made using React that tells more about myself
->>>>>>> 23271f96e84cb923e9e75e5ec06747d83110d590
->>>>>>> 1f716ff2bc8e62620d4f5802bafa055096ca73ef
+Vercel
+Netlify
+GitHub Pages
+🧠 What I Learned
+Component-based architecture in React
+Props and state management basics
+CSS styling and layout structuring
+Project organization in React apps
+👨‍💻 Author
+
+Fikayomi
+GitHub: https://github.com/Fikayomi-jpg
