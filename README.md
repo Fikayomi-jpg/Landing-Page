@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -21,3 +22,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # To-Do-List
 A To-Do List made using React that allows users add tasks, edit tasks and delete tasks from the list
 >>>>>>> 4d5f460b85ca8bf8d098d0c47db4c1eef0a4829b
+=======
+# Landing-Page
+A landing page made using React that tells more about myself
+>>>>>>> 23271f96e84cb923e9e75e5ec06747d83110d590
