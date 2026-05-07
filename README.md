@@ -1,45 +1,75 @@
-🚀 Landing Page Project
-📌 Overview
+# 🚀 Landing Page Project
+
+## 📌 Overview
 
 This is a responsive Landing Page project built using React, HTML, and CSS.
 It was created to practice component structure, styling, and UI layout design in React.
 
-🎯 Features
+---
 
-✨ Clean modern UI design
-📱 Fully responsive layout (mobile & desktop)
-⚡ Fast performance with React components
-🎨 Custom styling using CSS
-🧩 Reusable components structure
+## 🎯 Features
 
-🛠️ Tech Stack
-⚛️ React (Vite / Create React App)
-🧱 HTML5
-🎨 CSS3
-📦 JavaScript (ES6+)
+- Responsive design
+- Modern UI
+- Reusable components
+
+---
+
+## 🛠️ Tech Stack
+
+
+- ⚛️ React 
+- 🧱 HTML
+- 🎨 CSS
+- 📦 JavaScript 
 
 ----
+## 📸 Preview
 
-🚀 Getting Started
-1️⃣ Clone the repository
-git clone https://github.com/your-username/landing-page.git
-2️⃣ Install dependencies
+<p align="center">
+ <img width="600" alt="image" src="https://github.com/user-attachments/assets/e1a9afa0-cf5b-4a26-9e82-dfe2c3de888a" />
+<img width="600" alt="LP2" src="https://github.com/user-attachments/assets/22ec2f4c-f3b1-4678-bd90-66e8544d4adf" />
+<img width="600" alt="LP3" src="https://github.com/user-attachments/assets/5e7f6cbd-04f0-40d0-ac8b-23406bc0f094" />
+<img width="600" alt="LP4" src="https://github.com/user-attachments/assets/5da63fb4-ff9a-4e4c-aa43-65bf75c73203" />
+<img width="600" alt="LP5" src="https://github.com/user-attachments/assets/e147329c-9ac2-4402-a0f7-df7db65035ba" />
+</p>
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Fikayomi-jpg/Landing-Page.git
+```
+
+2. Navigate into the project:
+
+```bash
+cd Landing-Page
+```
+
+3. Install dependencies:
+
+```bash
 npm install
-3️⃣ Run the project
+```
+
+4. Run the app:
+
+```bash
 npm run dev
-🌐 Deployment
+```
 
-You can deploy this project using:
+---
 
-Vercel
-Netlify
-GitHub Pages
-🧠 What I Learned
-Component-based architecture in React
-Props and state management basics
-CSS styling and layout structuring
-Project organization in React apps
-👨‍💻 Author
+## 👨‍💻 Author
 
-Fikayomi
-GitHub: https://github.com/Fikayomi-jpg
+Developed by **Fikayomi** https://github.com/Fikayomi-jpg
+
+---
+
+## 📄 License
+
+This project is open source and free to use.
